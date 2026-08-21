@@ -32,3 +32,19 @@ Start the IDS:
 
 ```bash
 sudo python3 ids.py
+## Detection Results
+
+### Lab Screenshot 1
+![Lab Screenshot 1](VirtualBox_kali_21_08_2026_01_01_27.png)
+
+### Lab Screenshot 2
+![Lab Screenshot 2](VirtualBox_kali_21_08_2026_01_14_25.png)
+
+### Lab Screenshot 3
+![Lab Screenshot 3](VirtualBox_kali_21_08_2026_17_39_37.png)
+
+### Lab Screenshot 4
+![Lab Screenshot 4](VirtualBox_kali_21_08_2026_17_47_31.png)
+
+### Lab Screenshot 5
+![Lab Screenshot 5](VirtualBox_kali_21_08_2026_18_03_26.png)
